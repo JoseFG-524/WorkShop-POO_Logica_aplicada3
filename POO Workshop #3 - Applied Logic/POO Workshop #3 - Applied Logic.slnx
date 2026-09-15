@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Horses in Conflict/">
+    <Project Path="../HorsesBackend/HorsesBackend.csproj" />
+    <Project Path="../HorsesFrontend/HorsesFrontend.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="../Shared/Shared.csproj" />
+  </Folder>
+  <Folder Name="/The strongest beam/">
+    <Project Path="../BeamBackend/BeamBackend.csproj" />
+    <Project Path="../BeamFrontend/BeamFrontend.csproj" />
+  </Folder>
+</Solution>
